@@ -24,7 +24,7 @@ You can also write to me at noblenara [at] gmail.com
 It was even on [Hacker News] front page.
 - [Code Syntax Highlighter] - Confluence plugin for better code syntax highlighting.
 
-All other open source projects are on Github.
+All other open source projects are on Github, including source for [this website].
 
 ### Social
 
@@ -41,3 +41,4 @@ I might write blog post once in a while on [Medium](https://medium.com/@chhantya
 [Code Syntax Highlighter]: https://marketplace.atlassian.com/apps/1219685/code-syntax-highlighter
 [van Rossum]: https://twitter.com/gvanrossum/status/1012462042094002176
 [frontimage]: https://raw.githubusercontent.com/chhantyal/chhantyal.github.io/master/assets/frontpage.jpg "Goa, India 2011"
+[this website]: https://github.com/chhantyal/chhantyal.github.io
