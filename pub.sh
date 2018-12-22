@@ -9,4 +9,4 @@ open index.html
 
 git commit -am "${commit_msg}"
 git push
-echo "Website updated 🎉"
+echo "Website updated ✨🎉"
