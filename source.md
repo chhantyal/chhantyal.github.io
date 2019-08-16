@@ -1,6 +1,6 @@
 ![Goa, India 2011][frontimage] \
 
-# chhantyal.net
+## chhantyal.net
 
 Welcome to my website. 
 
