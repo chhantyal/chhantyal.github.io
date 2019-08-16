@@ -4,8 +4,7 @@
 
 Welcome to my website. 
 
-I am **Nar Kumar Chhantyal**. That’s rather a long name, feel free to pick one from first two 😄
-I am originally from Nepal. Few years back, I moved to Berlin, Germany for work (and then to Stuttgart). 
+I am **Nar Kumar Chhantyal**, originally from Nepal. Few years back, I moved to Berlin, Germany for work (and then to Stuttgart). 
 Before that, I studied and worked in India for five years.
 
 Professionally, I am Software Developer/Data Engineer, thus know a thing or two about computers and internet 🙂
