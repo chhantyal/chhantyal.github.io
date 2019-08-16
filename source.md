@@ -1,5 +1,4 @@
 ![Goa, India 2011][frontimage] \
-*Goa, India 2011*
 
 # chhantyal.net
 
