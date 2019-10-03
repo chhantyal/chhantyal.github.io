@@ -29,7 +29,7 @@ All other open source projects are on Github, including source for [this website
 
 ### Conference/Meetups
 
-- EuroPython 2019 Basel - Building Data Workflows with Luigi & Kubernetes ([slides][1], [recording])
+- EuroPython 2019 Basel - Building Data Workflows with Luigi & Kubernetes ([slides][1], [video recording])
 - Python Stuttgart Meetup (April 2019) - Building Data Workflows with Luigi ([slides][2])
 
 ### Social
@@ -49,6 +49,6 @@ I might write blog post once in a while on [Medium](https://medium.com/@chhantya
 [van Rossum]: https://twitter.com/gvanrossum/status/1012462042094002176
 [frontimage]: /assets/frontpage.jpg "Goa, India 2011"
 [this website]: https://github.com/chhantyal/chhantyal.github.io
-[recording]: https://youtu.be/jWKnA2ZdzHk?t=22627
+[video recording]: https://www.youtube.com/watch?v=41ubI6a3jzI
 [1]: https://speakerdeck.com/chhantyal/building-data-workflows-with-luigi-and-kubernetes
 [2]: https://speakerdeck.com/chhantyal/building-data-workflows-with-luigi-and-python
