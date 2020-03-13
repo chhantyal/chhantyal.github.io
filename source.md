@@ -42,7 +42,7 @@ I might write blog post once in a while on [Medium](https://medium.com/@chhantya
 [Facebook]: https://www.facebook.com/chhantyal
 [LinkedIn]: https://www.linkedin.com/in/chhantyal/
 [Github]: https://github.com/chhantyal/
-[Python 3 Readiness]: http://py3readiness.org
+[Python 3 Readiness]: http://chhantyal.net/py3readiness
 [Hacker News]: https://news.ycombinator.com/item?id=15832924
 [Code Syntax Highlighter]: https://marketplace.atlassian.com/apps/1219685/code-syntax-highlighter
 [Jupyter/IPython Notebook Viewer]: https://marketplace.atlassian.com/apps/1220365/jupyter-ipython-notebook-viewer
