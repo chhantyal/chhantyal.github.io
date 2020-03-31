@@ -8,7 +8,7 @@ I am **Nar Kumar Chhantyal**, usually known as Nar or Kumar. I am originally fro
 Few years back, I moved to Berlin, Germany for work (and then to Stuttgart). Before that, I studied and worked in India for five years.
 
 Professionally, I am Software Developer/Data Engineer, thus know a thing or two about computers and internet 🙂
-I am interested in web services, big data, distributed systems and good UX.
+I am interested in web services, big data, product building and good UX.
 
 Apart from building things on/for the internet, I like reading books, running/cycling, traveling and trying to do things cool kids do 😜
 
@@ -20,12 +20,7 @@ You can also write to me at noblenara [at] gmail.com
 - [Python 3 Readiness] - a site which tracks Python 3 adoption. It became quite populer that Python creator [van Rossum] shared on Twitter :)
 It was even on [Hacker News] front page.
 
-- [Code Syntax Highlighter] - Confluence plugin for better code syntax highlighting.
-If you use Confluence for documentation and don't like default code macro, give it a try.
-
-- [Jupyter/IPython Notebook Viewer] - add-on which renders Jupyter/IPython notebooks in Confluence pages.
-
-All other open source projects are on Github, including source for [this website].
+Other open source projects are on Github, including source for [this website].
 
 ### Conference/Meetups
 
