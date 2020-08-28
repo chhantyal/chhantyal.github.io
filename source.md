@@ -29,7 +29,7 @@ Other open source projects are on Github, including source for [this website].
 
 ### Social
 
-[Twitter] || [Facebook] || [LinkedIn] || [Github]
+[Twitter] || [Facebook] || [LinkedIn] || [Github]  || [Goodreads]
 
 I might write blog post once in a while on [Medium](https://medium.com/@chhantyal).
 
@@ -37,6 +37,7 @@ I might write blog post once in a while on [Medium](https://medium.com/@chhantya
 [Facebook]: https://www.facebook.com/chhantyal
 [LinkedIn]: https://www.linkedin.com/in/chhantyal/
 [Github]: https://github.com/chhantyal/
+[Goodreads]: https://www.goodreads.com/user/show/10599688-nar-kumar-chhantyal
 [Python 3 Readiness]: http://chhantyal.net/py3readiness
 [Hacker News]: https://news.ycombinator.com/item?id=15832924
 [Code Syntax Highlighter]: https://marketplace.atlassian.com/apps/1219685/code-syntax-highlighter
